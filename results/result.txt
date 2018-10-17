@@ -1,0 +1,12 @@
+weight combination of /1a_y1.png: wb = 0.0, wg = 0.0, wr = 1.0
+weight combination of /1a_y2.png: wb = 1.0, wg = 0.0, wr = 0.0
+weight combination of /1a_y3.png: wb = 0.9, wg = 0.0, wr = 0.1
+
+weight combination of /1b_y1.png: wb = 0.0, wg = 0.0, wr = 1.0
+weight combination of /1b_y2.png: wb = 0.0, wg = 1.0, wr = 0.0
+weight combination of /1b_y3.png: wb = 0.5, wg = 0.5, wr = 0.0
+
+weight combination of /1c_y1.png: wb = 0.0, wg = 0.0, wr = 1.0
+weight combination of /1c_y2.png: wb = 0.0, wg = 0.3, wr = 0.7
+weight combination of /1c_y3.png: wb = 0.0, wg = 0.9, wr = 0.1
+
